@@ -1,0 +1,12 @@
+﻿1. Sort customer names in alphabetical order.
+2. How many customers do we have? -> 793
+3. What were the revenue? -> 2297200.86
+4. What were our sales for the corporate segment? (What were our corporate sales?) -> 706146.3668
+5. What were our sales by month in 2018? -> 43971.374; 20301.1334; 58872.3528;...
+6. What were sales in each state? -> California: 457687.6315
+7. What were the top 5 cities based on sales? -> New York City: 256368.161; Los Angeles: 175851.341; Seattle: 119540.742; San Francisco: 112669.092; Philadelphia: 109077.013
+8. How much profit did we make? By quarter? -> 2015 Qtr1: 3811.229
+9. What was the average profit per year? -> 2015: 24.85899353; 2016: 29.31427388; 2017: 31.61777128; 2018: 28.21233986
+10. Which orders had high profits? -> CA-2017-118689: 8762.3891
+11. In California, what were the top 5 cities based on sales in 2018? -> Los Angeles: 48875.6925; San Francisco: 37197.551; San Diego: 5635.548; Sacramento: 5325.884; Brentwood: 4229.926
+12. Compare revenue and profit ratio for each category and subcategory.

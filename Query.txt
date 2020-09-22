@@ -1,0 +1,12 @@
+﻿1. Sort customer names in alphabetical order.
+2. How many customers do we have?
+3. What were the revenue?
+4. What were our sales for the corporate segment? (What were our corporate sales?)
+5. What were our sales by month in 2018?
+6. What were sales in each state?
+7. What were the top 5 cities based on sales?
+8. How much profit did we make? By quarter?
+9. What was the average profit per year?
+10. Which orders had high profits?
+11. In California, what were the top 10 cities based on sales in 2018?
+12. Compare revenue and profit ratio for each category and subcategory.
